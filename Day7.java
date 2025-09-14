@@ -1,4 +1,4 @@
-ublic class main {
+public class main {
 public static void main(String[] args) {
 		char  Nilai  = 'A' ;  
 		boolean Lulus = true ;
