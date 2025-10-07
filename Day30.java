@@ -1,6 +1,6 @@
 public class Main {
 	public static void main(String[] args) {
-		//operator perbandingan (< , >)
+		//operator perbandingan (<= , >=)
 	
 //operator perbandingan <= lebih kecil atau sama dengan 
 		int a = 10;
