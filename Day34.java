@@ -69,7 +69,7 @@ System.out.println("\n Soal 8.");
    System.out.print("Status hari libur (true/false) : ");
    boolean libur= s.nextBoolean();
    boolean hari = !libur;
-   System.out.println(libur);
+   System.out.println(hari);
    
    
 	}
