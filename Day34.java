@@ -8,7 +8,7 @@ System.out.print("nyawa awal pemain : ");
 int nyawa1 = s.nextInt();
 int naiklevel = nyawa1 ++;
 int kenajebakan = naiklevel --;
- System.out.print("nyawa terakhir pemain : "+ kenajebakan);
+ System.out.print("jumlah nyawa terakhir : "+ kenajebakan);
 
 
 System.out.println("\nsoal 2.");
